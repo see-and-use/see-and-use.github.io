@@ -889,7 +889,7 @@ img {
 	.main .table {
 		font-size: 12px;
 	}
-	.nav > li > a {
+	.nav-tabs > li > a {
 		padding: 1px;
 		font-size: 12px;
 		border-radius: 2px;
